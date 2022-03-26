@@ -1,2 +1,2 @@
-# Fundamentos-da-Computacao-Grafica
-Blender Trabalho da Licenciatura de Engenharia Informática na disciplina de Fundamentos da Computação Gráfica 2020-2021
+# Computer Graphics
+Blender Work as a student of the Bachelor's Degree in Computer Science 2020-2021
